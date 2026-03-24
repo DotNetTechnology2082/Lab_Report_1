@@ -22,7 +22,7 @@ class Program
 
         emp.ID = 201;
         emp.Name = "Tasi Sherpa";
-        emp.Salary = 10000000;
+        emp.Salary = 100;
 
 
         emp.Display();
