@@ -23,7 +23,7 @@ class Program
         Employee emp = new Employee();
 
         emp.ID = 101;
-        emp.Name = "Pasang Lama";
+        emp.Name = "Nishant Chaudhary";
         emp.Salary = 50000;
 
         emp.Display();
